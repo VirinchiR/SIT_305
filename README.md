@@ -1,17 +1,19 @@
-# Travel Companion App
+# SIT305 Android Projects
 
-This is my SIT305 Pass Task 2.1 project.
+This repository contains my Android Studio projects for SIT305.
 
-## Features
-- Currency conversion
-- Fuel conversion
-- Temperature conversion
+## Projects
 
-## Built With
-- Kotlin
-- Jetpack Compose
-- Android Studio
+### Task 2.1 - Travel Companion App
+The original project files are stored in the main repository structure.
 
-## Author
-Virinchi Rawal
+### Task 7.1P - Lost and Found App
+The Task 7.1P Lost and Found App is stored in the folder:
+
+`Task_7_1P_LostFoundApp`
+
+This app allows users to create lost/found item adverts, upload an image, save details using SQLite, filter items by category, view timestamps, and remove adverts after the item is returned.
+
+## Student Details
+Name: Virinchi Rawal  
 Student ID: S224160322
